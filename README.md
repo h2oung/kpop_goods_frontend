@@ -12,3 +12,10 @@
 # .env (예시)
 REACT_APP_KAKAO_REST_API_KEY=your_kakao_rest_api_key
 REACT_APP_KAKAO_REDIRECT_URI=http://localhost:3000/login-success
+```
+### 2. 실행
+``` 
+npm install
+npm start
+```
+위 명령어를 실행하면 개발 서버가 http://localhost:3000에서 실행됩니다.
